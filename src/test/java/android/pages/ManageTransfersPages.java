@@ -12,7 +12,7 @@ public class ManageTransfersPages {
     private WebElement passwordTab;
 
     public void ProvideUserName() {
-        userNameTab.sendKeys("Lyes");
+        userNameTab.sendKeys("Nafa");
     }
 
     public void ProvidePassword() {
